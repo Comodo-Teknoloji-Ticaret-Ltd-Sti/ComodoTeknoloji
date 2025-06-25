@@ -109,7 +109,7 @@ const ComodoWebsite = () => {
         },
         {
             icon: <Clock className="w-8 h-8" />,
-            title: "Hızlı Lansман",
+            title: "Hızlı Lansmаn",
             description: "Rekabet avantajı için hızlı piyasaya çıkış",
             metric: "30 Gün İçinde"
         },
