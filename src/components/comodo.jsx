@@ -284,8 +284,8 @@ const ComodoWebsite = () => {
                         <div className="flex items-center space-x-3">
                             <div className="relative">
                                 <div className="absolute inset-0 bg-gradient-to-r from-blue-500 to-purple-600 rounded-xl blur opacity-75"></div>
-                                <div className="relative bg-gradient-to-r from-blue-500 to-purple-600 text-white p-3 rounded-xl">
-                                    <Code className="w-6 h-6" />
+                                <div className="relative bg-white text-white p-2 rounded-xl">
+                                    <img src="./ComodoTeknoloji.png" alt="Comodo Teknoloji" className="w-12 h-12 rounded-xl" />
                                 </div>
                             </div>
                             <div>
