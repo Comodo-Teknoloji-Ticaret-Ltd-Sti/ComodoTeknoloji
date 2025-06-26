@@ -982,9 +982,9 @@ const ComodoWebsite = () => {
                         <div>
                             <h4 className="text-lg font-semibold mb-4">İletişim</h4>
                             <ul className="space-y-2 text-gray-300">
-                                <li>+90 532 123 45 67</li>
-                                <li>info@comodo.com.tr</li>
-                                <li>Ankara, Türkiye</li>
+                                <li>+90 505 998 20 93</li>
+                                <li>comodoteknoloji@gmail.com</li>
+                                <li>Antalya, Türkiye</li>
                             </ul>
                         </div>
                     </div>
